@@ -17,10 +17,10 @@ Kullanıcı dostu arayüz: Basit komut satırı kullanıcı arayüzü ile kullan
 Tool'u yüklemek için aşağıdaki adımları izleyiniz:
 | Komut | Açıklama |
 | --- | --- |
-| git clone https://github.com/muhammet-alparslan/port-tarama.git | proje Klasörünü İndirme |
-| cd port-tarama  | dosya içeriğine git |
+| git clone https://github.com/muhammet-alparslan/port-scanner.git | proje Klasörünü İndirme |
+| cd port-scanner  | dosya içeriğine git |
 | pip install -r requirements.txt | gereksinimlerinin yüklenmesi |
-| python port_tarama.py | py dosyasını çalıştırma |
+| python port-scanner.py | py dosyasını çalıştırma |
 
 
 > [!NOTE]
