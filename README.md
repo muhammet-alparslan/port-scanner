@@ -5,7 +5,7 @@ Colorful outputs: It highlights open ports in green, facilitating users to quick
 
 
 ## Installation
-To install LinuxDiskMaid, follow these steps:
+To install Port Scanning, follow these steps:
 1. Clone the repository:`https://github.com/muhammet-alparslan/port-scanner.git`
 2. N-avigate to the project directory:`cd port-scanner`
 3. requirement installation: `pip install -r requirements.txt`
