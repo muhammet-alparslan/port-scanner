@@ -9,4 +9,4 @@ To install Port Scanning, follow these steps:
 1. Clone the repository:`https://github.com/muhammet-alparslan/port-scanner.git`
 2. N-avigate to the project directory:`cd port-scanner`
 3. requirement installation: `pip install -r requirements.txt`
-4. Run the installation script: python `port-scanner.py`
+4. Run the installation script: `python port-scanner.py`
